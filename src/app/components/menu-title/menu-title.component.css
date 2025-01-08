@@ -3,10 +3,12 @@
   justify-content: center;
   margin-top: 15px;
   margin-bottom: 15px;
-  font-size: 15rem;
+  font-size: 16rem;
 }
 
-.container__menu-title > hr {
+.container__menu-title {
   margin-top: 20px;
   margin-bottom: 5px;
+  border-top: 0.5px solid #3B3B3B;
+  border-bottom: 0.5px solid #3B3B3B;
 }
