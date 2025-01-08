@@ -1,7 +1,9 @@
 .container__articles {
+  display: flex;
+  justify-content: center;
   margin-top: 40px;
 }
 
 .articles__main {
-  width: 48%;
+  margin-right: 20px;
 }
