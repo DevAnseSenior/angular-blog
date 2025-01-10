@@ -1,0 +1,13 @@
+@media (max-width: 1179px) {
+  .menu-bar > nav {
+    display: none;
+  }
+
+  .menu-bar__social {
+    display: none;
+  }
+
+  .responsive-menu {
+    display: block;
+  }
+}
