@@ -9,7 +9,7 @@
 }
 
 .small-card__picture {
-  width: 32%;
+  width: 60%;
   height: 100%;
   margin-right: 20px;
 }
@@ -30,4 +30,8 @@
 
 .small-card__title > h1 {
   font-size: 20px;
+}
+
+.small-card__title > h1 > a {
+  color: #FFF;
 }

@@ -10,3 +10,28 @@ header {
 .articles__main {
   margin-right: 20px;
 }
+
+.container__bottom {
+  padding: 40px 0;
+  color: #000;
+  background-color: #FFF !important;
+}
+
+.container__bottom > h4 {
+  margin-bottom: 20px;
+  padding-left: 20px;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #B8B8B8;
+}
+
+.articles__area {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 10px;
+}
+
+.articles__area app-medium-card:not(:first-child) {
+  border-left: 1px solid #DDD;
+}
