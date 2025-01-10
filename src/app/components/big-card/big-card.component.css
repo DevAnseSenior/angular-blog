@@ -26,6 +26,11 @@
 .big-card__title > h1 {
   margin-top: 15px;
   font-size: 27px;
+  color: #FFF;
+}
+
+.big-card__title > h1 > a {
+  color: #FFF;
 }
 
 .big-card__description {

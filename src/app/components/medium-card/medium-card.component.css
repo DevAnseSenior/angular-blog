@@ -1,0 +1,44 @@
+.container__medium-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: auto;
+  height: auto;
+  margin: 0px 20px;
+}
+
+.medium-card__picture > img {
+  width: 100%;
+}
+
+.medium-card__date {
+  margin-top: 15px;
+}
+
+.medium-card__date > span {
+  font-size: 12px;
+  font-weight: bold;
+  color: #BBB;
+}
+
+.medium-card__title > h1 {
+  margin-top: 15px;
+  font-size: 18px;
+  color: #FFF;
+}
+
+.medium-card__title > h1 > a {
+  color: #000;
+}
+
+.medium-card__description {
+  margin-top: 20px;
+}
+
+.medium-card__description > p > a {
+  margin-top: 10px;
+  font-size: 12px;
+  font-weight: bold;
+  color: #9E9FA1;
+}
