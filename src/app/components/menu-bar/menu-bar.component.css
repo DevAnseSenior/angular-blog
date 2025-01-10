@@ -71,3 +71,7 @@ nav > ul > li > a:hover {
   width: 18px;
   height: 18px;
 }
+
+.responsive-menu {
+  display: none;
+}

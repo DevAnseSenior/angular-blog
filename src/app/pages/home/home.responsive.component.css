@@ -1,0 +1,18 @@
+@media (max-width: 1180px) {
+  .container__articles {
+    flex-direction: column;
+  }
+
+  .articles__main {
+    margin-right: 0;
+    margin-bottom: 40px;
+  }
+
+  .articles__area {
+    flex-wrap: wrap;
+  }
+
+  .articles__area app-medium-card:not(:first-child) {
+    border: none;
+  }
+}

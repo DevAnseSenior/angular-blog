@@ -1,7 +1,7 @@
 .container__small-card {
   display: flex;
-  align-items: flex-start;
   justify-content: flex-start;
+  align-items: flex-start;
   padding-bottom: 15px;
   margin-right: 30px;
   margin-bottom: 15px;
@@ -15,7 +15,7 @@
 }
 
 .small-card__picture > img {
-  width: 100%;
+  width: 345px;
 }
 
 .small-card__date {

@@ -1,0 +1,11 @@
+@media (max-width: 1180px) {
+
+  .container__medium-card {
+    width: 42vw;
+    margin: 0px 20px;
+  }
+
+  .medium-card__description > p > a {
+    display: none;
+  }
+}
