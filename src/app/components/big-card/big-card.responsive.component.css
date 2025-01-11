@@ -1,5 +1,5 @@
 @media (max-width: 100%) {
-  .big-card__picture {
-    width: 100%;
+  .big-card__picture img{
+    width: 100vw;
   }
 }
