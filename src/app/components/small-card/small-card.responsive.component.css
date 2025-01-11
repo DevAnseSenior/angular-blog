@@ -11,8 +11,12 @@
   }
 
   .small-card__picture {
-    margin-right: 0px;
+    margin-right: 25px;
     order: 2;
+  }
+
+  .small-card__picture > img {
+    width: 50vw;
   }
 
   .small-card__content {
